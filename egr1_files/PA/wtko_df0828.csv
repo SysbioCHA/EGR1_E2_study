@@ -1,0 +1,41 @@
+ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count,p.adjust_log,cond
+GO:2000243,GO:2000243: positive regulation of reproductive process,5/90,110/28564,2.62E-05,0.011281654,0.008832611,Inhbb/Lhfpl2/Plat/Sox9/Inhba,5,1.947627234,3h
+0,GO:0089718: amino acid import across plasma membrane,4/90,55/28564,2.78E-05,0.011281654,0.008832611,Slc6a13/Arg2/Slc1a4/Slc7a11,4,1.947627234,3h
+0,GO:0048872: homeostasis of number of cells,8/90,391/28564,3.35E-05,0.011281654,0.008832611,Hba-a1/Hbb-b1/Kit/Scnn1b/Sox9/Inhba/Slc7a11/P2ry14,8,1.947627234,3h
+0,GO:0001667: ameboidal-type cell migration,8/90,470/28564,0.000120675,0.02447576,0.019162516,Pak3/Egr3/Kit/Plk2/Pdgfb/Timp1/Sox9/Anxa3,8,1.611263823,3h
+0,GO:0097305: response to alcohol,6/90,246/28564,0.000130654,0.02447576,0.019162516,Aldh1a1/Slc5a5/Adh1/Scnn1b/Inhbb/Inhba,6,1.611263823,3h
+0,GO:0060395: SMAD protein signal transduction,4/90,102/28564,0.000309393,0.037259762,0.029171344,Inhbb/Ror2/Inhba/Bmp8a,4,1.428759929,3h
+GO:0007548,GO:0007548: sex differentiation,6/90,322/28564,0.000551158,0.046053005,0.036055734,Kit/Lhfpl2/Ror2/Adamts1/Sox9/Inhba,6,1.336742022,3h
+0,GO:0042472: inner ear morphogenesis,4/90,120/28564,0.000572857,0.046053005,0.036055734,Ripor2/Lrig1/Ror2/Sox9,4,1.336742022,3h
+0,GO:0090130: tissue migration,6/90,331/28564,0.000636627,0.046053005,0.036055734,Egr3/Kit/Plk2/Pdgfb/Sox9/Anxa3,6,1.336742022,3h
+0,GO:0002444: myeloid leukocyte mediated immunity,4/37,121/28564,1.82E-05,0.009740639,0.00751909,Kit/Nlrp6/Abr/Vamp7,4,2.011412555,6h
+GO:0050866,GO:0050866: negative regulation of cell activation,4/37,227/28564,0.000208813,0.028481,0.021985334,Ripor2/Arg2/Abr/Ihh,4,1.545444762,6h
+0,GO:0032102: negative regulation of response to external stimulus,5/37,429/28564,0.000219012,0.028481,0.021985334,Tspan8/Cldn3/Arg2/Nlrp6/Abr,5,1.545444762,6h
+0,GO:0032612: interleukin-1 production,3/37,128/28564,0.000610943,0.041238657,0.031833349,Il1r2/Arg2/Nlrp6,3,1.38469549,6h
+0,GO:0090596: sensory organ morphogenesis,4/37,319/28564,0.000753903,0.041908147,0.032350149,Aldh1a1/Ripor2/Abr/Ihh,4,1.377701541,6h
+0,GO:0090313: regulation of protein targeting to membrane,2/37,35/28564,0.000945583,0.043178648,0.033330886,Mtcl1/Vamp7,2,1.364730961,6h
+0,GO:0045197: establishment or maintenance of epithelial cell apical/basal polarity,2/37,44/28564,0.001492411,0.048716903,0.03760603,Tcf15/Mtcl1,2,1.312320332,6h
+0,GO:0003382: epithelial cell morphogenesis,2/37,46/28564,0.00163016,0.048716903,0.03760603,Cldn3/Ihh,2,1.312320332,6h
+0,GO:0070661: leukocyte proliferation,4/37,396/28564,0.001673911,0.048716903,0.03760603,Kit/Ripor2/Arg2/Ihh,4,1.312320332,6h
+0,GO:0002691: regulation of cellular extravasation,2/37,47/28564,0.001701225,0.048716903,0.03760603,Ripor2/Abr,2,1.312320332,6h
+GO:0042742,GO:0042742: defense response to bacterium,22/203,386/28564,7.10E-14,1.79E-10,1.24E-10,B2m/Rnase4/Gbp3/Lyz2/Oas1g/Slpi/Irgm2/H2-K1/Pglyrp1/Slamf9/Arg2/Nlrp6/Naip1/Lcn2/Tlr2/Fcer1g/Naip5/Lyz1/Plac8/Gbp2/Anxa3/Wfdc15b,22,9.748122162,24h
+GO:0001906,GO:0001906: cell killing,16/203,250/28564,3.71E-11,4.66E-08,3.24E-08,B2m/Ceacam1/Lyz2/H2-K1/Gm7030/Pglyrp1/Ccl21b/Ccl21a/Ccl11/Nlrp6/H2-T23/C3/Cxcl14/Ctsh/Lyz1/Arg1,16,7.331234727,24h
+GO:0019221,GO:0019221: cytokine-mediated signaling pathway,19/203,429/28564,2.92E-10,2.45E-07,1.70E-07,Laptm5/Ceacam1/Kit/Oas1g/Irgm2/Ccl21b/Prlr/Osmr/Cxcl15/Ccl21a/Ccl11/Il13ra1/Nlrp6/Naip1/Fcer1g/Naip5/Cxcl17/Arg1/Oasl2,19,6.611286949,24h
+0,GO:0050900: leukocyte migration,17/203,386/28564,2.86E-09,1.79E-06,1.25E-06,Cd200/Kit/Ripor2/Lgmn/Ccl21b/Aoc3/Cxcl15/Ccl21a/Ccl11/Slamf9/Spp1/Slc12a2/Tlr2/Fcer1g/Cxcl14/Vcam1/Cxcl17,17,5.746056441,24h
+0,GO:0052547: regulation of peptidase activity,17/203,466/28564,4.55E-08,1.59E-05,1.10E-05,Serpina1b/Laptm5/Serpina1e/Serpina1a/Slpi/Ifi205/Lgmn/Cdh1/Nlrp6/Naip1/Ctsk/Naip5/Ctsh/Ngfr/Sox7/Ccn2/Casp6,17,4.799613221,24h
+GO:0002443,GO:0002443: leukocyte mediated immunity,17/203,480/28564,6.96E-08,1.94E-05,1.35E-05,B2m/Ceacam1/Kit/Gcnt3/H2-K1/Gm7030/Cfi/Slamf9/Nlrp6/H2-T23/Tlr2/Fcer1g/C3/Ctsh/Arg1/C4b/Anxa3,17,4.71150242,24h
+0,GO:0001818: negative regulation of cytokine production,13/203,296/28564,2.28E-07,5.20E-05,3.61E-05,Cd200/Laptm5/Ceacam1/Gbp3/Oas1g/Trib2/Pglyrp1/Gpnmb/Inhbb/Arg2/Nlrp6/Tlr2/Arg1,13,4.283656595,24h
+0,GO:0070371: ERK1 and ERK2 cascade,14/203,353/28564,2.68E-07,5.61E-05,3.90E-05,Ceacam1/Ccl21b/Chil1/Ccl21a/Ccl11/Gpnmb/Nlrp6/Tlr2/Ramp3/C3/Ctsh/Sox9/Cxcl17/Ccn2,14,4.250920386,24h
+0,GO:0032102: negative regulation of response to external stimulus,15/203,429/28564,4.95E-07,8.89E-05,6.17E-05,Cd200/Ier3/Tspan8/Ceacam1/Adrb2/Oas1g/Ifi205/Pglyrp1/Arg2/Gpx2/Nlrp6/Slc12a2/St6gal1/Cxcl17/Arg1,15,4.051128588,24h
+0,GO:0031348: negative regulation of defense response,12/203,268/28564,5.47E-07,9.17E-05,6.36E-05,Cd200/Ier3/Ceacam1/Adrb2/Oas1g/Ifi205/Pglyrp1/Arg2/Gpx2/Nlrp6/Cxcl17/Arg1,12,4.037778355,24h
+0,GO:0034341: response to type II interferon,9/203,146/28564,1.08E-06,0.000159786,0.000110926,Gbp3/Irgm2/Ccl21b/Gch1/Ccl21a/Ccl11/Tlr2/Arg1/Gbp2,9,3.796462161,24h
+0,GO:0006959: humoral immune response,12/203,299/28564,1.72E-06,0.000231262,0.000160546,B2m/Slpi/Pglyrp1/Ccl21b/Cfi/Cxcl15/Ccl21a/Ccl11/C3/Cxcl14/C4b/Wfdc15b,12,3.63589634,24h
+0,GO:1990868: response to chemokine,7/203,81/28564,1.84E-06,0.000231262,0.000160546,Ripor2/Ccl21b/Cxcl15/Ccl21a/Ccl11/Slc12a2/Cxcl17,7,3.63589634,24h
+0,GO:0010038: response to metal ion,12/203,309/28564,2.42E-06,0.000253843,0.000176222,Serpina1b/B2m/Serpina1e/Serpina1a/Trpv6/Lgmn/Aoc1/Cdh1/Slc12a2/Slc40a1/Casp6/Cp,12,3.595435015,24h
+0,GO:0022408: negative regulation of cell-cell adhesion,10/203,211/28564,2.96E-06,0.000286587,0.000198953,Laptm5/Ceacam1/Adrb2/Ripor2/Ccl21b/Cdh1/Ccl21a/Gpnmb/Arg2/Arg1,10,3.542744101,24h
+0,GO:0006898: receptor-mediated endocytosis,11/203,273/28564,4.52E-06,0.000376635,0.000261467,B2m/Ceacam1/Adrb2/Grk3/Fcgr4/Ccl21a/Clu/Cd14/Fcer1g/Ramp3/C3,11,3.424079354,24h
+GO:0002697,GO:0002697: regulation of immune effector process,14/203,472/28564,7.99E-06,0.00054006,0.000374919,B2m/Laptm5/Ceacam1/Kit/H2-K1/Gm7030/Pglyrp1/Cfi/H2-T23/Tlr2/Fcer1g/C3/Arg1/C4b,14,3.26755793,24h
+0,GO:1904645: response to amyloid-beta,5/203,39/28564,8.16E-06,0.00054006,0.000374919,Adrb2/Lgmn/Ramp3/Vcam1/Ngfr,5,3.26755793,24h
+0,GO:0072593: reactive oxygen species metabolic process,10/203,249/28564,1.27E-05,0.000734966,0.000510226,Ier3/Gch1/Arg2/Noxo1/Lcn2/Gpx3/Gadd45a/Ngfr/Ccn2/Ddit4,10,3.133732935,24h
+0,GO:0045765: regulation of angiogenesis,11/203,305/28564,1.28E-05,0.000734966,0.000510226,Ceacam1/Adrb2/Chil1/Ccl11/Lrg1/Slc12a2/Gadd45a/C3/Ctsh/Ngfr/Anxa3,11,3.133732935,24h
+0,GO:0050678: regulation of epithelial cell proliferation,13/203,427/28564,1.29E-05,0.000734966,0.000510226,B2m/Cdkn2b/Rap1gap/Sulf2/Ceacam1/Esrp2/Cdh1/Ccl11/Lrg1/Cdkn1c/Sox9/Ngfr/Arg1,13,3.133732935,24h

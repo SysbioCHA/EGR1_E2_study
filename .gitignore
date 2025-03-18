@@ -1,0 +1,15 @@
+*.Rproj
+.Rproj.user/
+.RData
+sub_data/EGR1_study/G4/
+sub_data/EGR1_study/GE_INFO/
+sub_data/EGR1_study/immature_mouse/
+sub_data/EGR1_study/msigdb/
+sub_data/EGR1_study/PA/
+sub_data/EGR1_study/pathview/
+sub_data/EGR1_study/SSA/
+sub_data/EGR1_study/stringDB/
+sub_data/EGR1_study/submit/
+sub_data/EGR1_study/TCGA_analysis/
+*EGR1_KO_microarray.csv
+.Rhistory
